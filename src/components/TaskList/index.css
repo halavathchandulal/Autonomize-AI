@@ -1,0 +1,14 @@
+.input-list {
+  background-color: cornflowerblue;
+  color: #fff;
+  border: 0px;
+  border-radius: 5px;
+  padding-left: 5px;
+  padding-right: 5Spx;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  margin: 4px;
+}
+.count {
+  color: #fff;
+}
